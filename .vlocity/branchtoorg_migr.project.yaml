@@ -1,0 +1,8 @@
+Name: BranchToOrg_migr
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - lwc/cfCpqAssetViewerContainer
+VlocityTypesToFetch:
+
+SalesforceTypesToFetch:
+    - LightningComponentBundle
