@@ -1,0 +1,9 @@
+Name: SF+Vlocity
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - DataRaptor/CPQGetProductsFromAssets
+    - lwc/cfCpqSpinner
+VlocityTypesToFetch:
+    - DataRaptor
+SalesforceTypesToFetch:
+    - LightningComponentBundle
